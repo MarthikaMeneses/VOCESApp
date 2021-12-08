@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VocesApp</string>
+    <string name="title_1">Caso 1</string>
+    <string name="title_2">Caso 2</string>
+    <string name="title_3">Caso 3</string>
+    <string name="title_4">Caso 4</string>
+    <string name="title_5">Caso 5</string>
+</resources>
