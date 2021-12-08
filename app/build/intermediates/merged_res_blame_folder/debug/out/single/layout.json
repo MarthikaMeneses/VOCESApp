@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\inclusive8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\inclusive8\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\inclusive8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications3.xml",
+        "source": "D:\\inclusive8\\app\\src\\main\\res\\layout\\fragment_notifications3.xml"
+    },
+    {
+        "merged": "D:\\inclusive8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "D:\\inclusive8\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\inclusive8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications2.xml",
+        "source": "D:\\inclusive8\\app\\src\\main\\res\\layout\\fragment_notifications2.xml"
+    },
+    {
+        "merged": "D:\\inclusive8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "D:\\inclusive8\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\inclusive8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\inclusive8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
