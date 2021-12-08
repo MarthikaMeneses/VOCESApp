@@ -1,0 +1,28 @@
+com/example/inclusive8/ui/home/HomeFragment.java
+ com.example.inclusive8.ui.home.HomeFragment
+com/example/inclusive8/BuildConfig.java
+ com.example.inclusive8.BuildConfig
+com/example/inclusive8/ui/notifications/NotificationsFragment.java
+ com.example.inclusive8.ui.notifications.NotificationsFragment
+com/example/inclusive8/ui/Notifications2Fragment.java
+ com.example.inclusive8.ui.Notifications2Fragment
+com/example/inclusive8/ui/notifications3/Notifications3Fragment.java
+ com.example.inclusive8.ui.notifications3.Notifications3Fragment
+com/example/inclusive8/ui/notifications2/Notifications2Fragment.java
+ com.example.inclusive8.ui.notifications2.Notifications2Fragment
+com/example/inclusive8/databinding/FragmentHomeBinding.java
+ com.example.inclusive8.databinding.FragmentHomeBinding
+com/example/inclusive8/ui/dashboard/DashboardFragment.java
+ com.example.inclusive8.ui.dashboard.DashboardFragment
+com/example/inclusive8/databinding/FragmentNotificationsBinding.java
+ com.example.inclusive8.databinding.FragmentNotificationsBinding
+com/example/inclusive8/databinding/FragmentNotifications3Binding.java
+ com.example.inclusive8.databinding.FragmentNotifications3Binding
+com/example/inclusive8/databinding/FragmentNotifications2Binding.java
+ com.example.inclusive8.databinding.FragmentNotifications2Binding
+com/example/inclusive8/databinding/ActivityMainBinding.java
+ com.example.inclusive8.databinding.ActivityMainBinding
+com/example/inclusive8/databinding/FragmentDashboardBinding.java
+ com.example.inclusive8.databinding.FragmentDashboardBinding
+com/example/inclusive8/MainActivity.java
+ com.example.inclusive8.MainActivity
